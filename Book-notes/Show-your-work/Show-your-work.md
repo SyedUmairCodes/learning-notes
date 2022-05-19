@@ -4,14 +4,12 @@
 
 ---
 
-### Be so good they can't ignore you.
-
+## Be so good they can't ignore you.
 - Forget about promoting your content. If it's good people will notice it automatically.
 - Be **Find-able.** This means try to become so good at your work that everyone starts discovering your work on their own.
 - Try to be the best at what you do. Share small details about your life but don't brag about it.
 
 ### Don't be a genius
-
 - There isn't a great mind in the world who are regarded as geniuses worked together with a group of like minded individuals helping and supporting each other.
 - Creativity happens when great minds think alike.
 - You don't need to be a genius in today's world to be creative. Connect with people that are better than you in your field and learn from them while trying to contribute to the work they are doing.
