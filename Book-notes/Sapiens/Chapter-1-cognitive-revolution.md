@@ -1,23 +1,21 @@
 # Sapiens
 - **Author**: Yuval Noah Harari 
 - **Genre**: History, Non-fiction, Sociology 
----
-## Ancient history
-- Chimpanzees are our closest relatives, Just 6 million years ago, a single female ape had two daughters. and one of them became the ancestor of all chimpanzees and  the other is our grandmother.
-- Scientists put the same type of species that evolved from a common ancestor into groups called genus.
-- Lions, tigers, leopards, and jaguars are different species within the genus Panthera. they label the organisms with a two-part Latin name, genus followed by species. Lions, for example, are called Panthera Leo, the species Leo of the genus Panthera.
 
-### Homo soloensis
-- On the island of Java, in Indonesia, lived Homo soloensis, ‘Man from the Solo Valley’, who was suited to life in the tropics. 
-- On another Indonesian island – the small island of Flores – archaic humans underwent a process of dwarfing.
-	- Humans first reached Flores when the sea level was exceptionally low, and the island was easily accessible from the mainland.
-	-  When the seas rose again, some people were trapped on the island, which was poor in resources.
+# Ancient history
+- Chimpanzees are our closest relatives, Just 6 million years ago, a single female ape had two daughters. and one of them became the ancestor of all chimpanzees and  the other is our grandmother.
+- Scientists put the same type of species that evolved from a common ancestor into groups called genus. Lions, tigers, leopards, and jaguars are different species within the genus Panthera. they label the organisms with a two-part Latin name, genus followed by species. Lions, for example, are called Panthera Leo, the species Leo of the genus Panthera.
+
+# Homo soloensis
+- On the island of Java, in Indonesia,There was a species of humans called Homo soloensis meaning ‘Man from the Solo Valley' and they were very well suited for tropical weather.
+- On another island in Indonesia, the small island of Flores the humans underwent a process of dwarfing.Humans first reached Flores when the sea level was exceptionally low, and the island was easily accessible from the mainland.
+	- When the seas rose again, some people were trapped on the island, which was poor in resources.
 - Big people, who need a lot of food, died first. Smaller fellows survived much better. Over the generations, the people of Flores became dwarfs. 
 	- This unique species, known by scientists as Homo floresiensis, reached a maximum height of only one meter and weighed no more than twenty-five kilograms. 
 		- They were nevertheless able to produce stone tools and even managed occasionally to hunt down some of the island’s elephants – though, to be fair, the elephants were a dwarf species as well.
-### Bigger brains
-- Mammals weighing sixty kilograms have an average brain size of 200 cubic centimetres. The earliest men and women, 2.5 million years ago, had brains of about 600 cubic centimetres. 
-	- Modern Sapiens sport a brain averaging 1,200–1,400 cubic centimetres. Neanderthal brains were even bigger.
+# Bigger brains
+- Mammals weighing sixty kilograms have an average brain size of 200 cubic centi-meteres. The earliest men and women, 2.5 million years ago, had brains of about 600 cubic centi-meteres. 
+- Meanwhile, modern humans sport a brain averaging 1,200–1,400 cubic centi-meteres.
 - Homo sapiens, the brain accounts for about 2–3 percent of total body weight, but it consumes 25 percent of the body’s energy when the body is at rest. 
 	- By comparison, the brains of other apes require only 8 percent of rest-time energy.
 		- There is some evidence that the size of the average Sapiens brain has actually decreased since the age of foraging.
