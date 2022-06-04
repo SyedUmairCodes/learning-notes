@@ -7,3 +7,5 @@
 - This is where a design system comes to the rescue. Create a design system that will have pre-defined colors and their shades as well as fonts and font sizes for every heading and text fields.
 Try to systematize everything even margins and borders.
 -  A design system takes a lot of time to be perfect. Just start with the essentials like fonts and colors and keep on adding other styles as you work.
+
+**Tags:** #Books #refactoring-ui

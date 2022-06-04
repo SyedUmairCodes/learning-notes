@@ -13,3 +13,9 @@ Template literals help you to add string inside another string. Or if you want t
 The above code snippet will print out the phrase "My name is john and I am 22 years old." This provides a great opportunity to make things dynamic because you can just change the values of the variables and the text will be auto updated. This is mostly used when you want to show how many downloads your app got or how many people are using your service. 
 
 Keep in mind that template literals start with a backtick and not with a double quote.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[06-arrow-functions]]
+- [[07-default-parameters]]

@@ -138,3 +138,9 @@ let a = null //This variable does not have any data type.
 ```
 
 If you use the **typeOf** keyword to check out the data types of variables that have undefined or null you will get different results. For the variable having the undefined value, your result will also be undefined. But for the variable that has a null value, it will simply return the **object** as the data type because that is how JavaScript works. We don’t need to go much deeper into it.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[03-garbage-collections]]
+- [[04-comments]]

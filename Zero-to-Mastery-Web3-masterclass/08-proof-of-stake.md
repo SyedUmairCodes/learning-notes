@@ -7,3 +7,9 @@ If you add an invalid block to the block-chain you will lose the amount of that 
 
 In proof of stake people that add new blocks to the block-chain are called validators and not miners and this way to add new blocks is better than the proof of work way.
 The winner between these two ways to add new blocks is not decided yet because both have their own pros and cons.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[09-ethereum]]
+- [[10-ethereum-smart-contracts]]

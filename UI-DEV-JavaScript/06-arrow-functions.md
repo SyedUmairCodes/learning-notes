@@ -17,3 +17,9 @@ Arrow functions have different syntax then normal functions in JavaScript, this 
 In the above code snippet, we can see the difference between the syntax of both functions. In JavaScript functions are just variables and in the case of arrow functions that's exactly what we are doing.
 
 Arrow functions also help when working with arrays because you don't have to write the whole function keyword we can just simply create an anonymous function and perform the required functions on our array. 
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[07-default-parameters]]
+- [[08-polyfills-and-babel]]

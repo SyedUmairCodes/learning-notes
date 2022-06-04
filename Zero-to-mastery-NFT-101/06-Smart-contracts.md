@@ -4,3 +4,8 @@ A smart contract is a type of Ethereum account that users can interact with it. 
 The creator of the contract can define rules and limitations on how others interact with the contract. The contract itself is its own entity.
 
 Smart contracts are just custom transactions that you can code yourself.
+
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[07-NFT-standards]]

@@ -16,3 +16,9 @@ Message calls allows you to access the smart contracts and execute the code stor
 Smart contracts can do almost anything that you can program them to do. Some people can also add malicious code in the smart contract but there is a way built into the Ethereum block-chain that mitigates the risk of such a thing happening. 
 
 We talked about gas before. If a malicious person were to execute bad code it would require him to pay a high amount of gas fees and only then can the malicious code be executed.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[11-ethereum-virtual-machine]]
+- [[12-cryptocurrency]]

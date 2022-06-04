@@ -18,3 +18,5 @@
 - In fact, monotheism, as it has played out in history, is a kaleidoscope of monotheist, dualist, polytheist and animist legacies, jumbling together under a single divine umbrella. 
 - The average Christian believes in the monotheist God, but also in the dualist Devil, in polytheist saints, and in animist ghosts. 
 - Scholars of religion have a name for this simultaneous avowal of different and even contradictory ideas and the combination of rituals and practices taken from different sources. It’s called syncretism. Syncretism might, in fact, be the single great world religion.
+
+**Tags:** #Books #Sapiens

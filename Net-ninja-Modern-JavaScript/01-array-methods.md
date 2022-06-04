@@ -76,3 +76,9 @@ The sort method helps to sort values in an array according to the given criteria
 ```
 
 Methods can also be used together for more complex results. This is called method chaining.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[02-es6-features]]
+- [[03-event-bubbling]]

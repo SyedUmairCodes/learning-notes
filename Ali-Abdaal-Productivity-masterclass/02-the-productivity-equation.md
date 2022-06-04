@@ -29,3 +29,9 @@ You enter the plane mode as soon as you're done making your daily to-do list or 
 
 ## 3. The engineer
 The engineer is the remaining 10 percent of your time when you make sure that your plane is going steadily and there aren't any hurdles along the way. The engineer keeps the system organized the way that the pilot intended it to be and makes sure that the plane has enough fuel to land safely at the end of the day.
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[03-the-myth-of-time]]
+- [[04-the-myth-of-motivation]]

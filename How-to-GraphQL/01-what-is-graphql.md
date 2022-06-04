@@ -7,3 +7,9 @@ GraphQL allows *declarative* data fetching, clients specify what exactly they wa
 Modern applications today need to access servers to store and retrieve data from them, this process is the responsibility of the APIs to provide an *interface* to store and retrieve data from the servers.
 
 Most people assume that GraphQL is a database technology, which is not correct. GraphQL is a query language for APIs.  GraphQL doesn't have any specific requirements it can be used anywhere where an API is required. 
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[02-alternative-to-rest]]
+- [[03-better-than-rest]]

@@ -22,3 +22,9 @@ console.log(date);
 ```
 
 Now, the date variable is also an object because it contains its own methods which you can see using the dot notation. When you use the NEW keyword to create an object the right side of the NEW keyword is called a constructor. 
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[21-recursion]]
+- [[22-callbacks]]

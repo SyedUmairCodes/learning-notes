@@ -7,3 +7,5 @@
 - He also knew how to use them since he was a Ivy-league graduate and leveraged his unfair advantages as quickly and most effectively as he can and made snapchat what it is today.
 
 >It’s not about working harder. It’s about working the system.’
+
+**Tags:** #Books  #the-unfair-advantage

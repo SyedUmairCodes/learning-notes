@@ -11,7 +11,12 @@ If trust can be set by code, then people don’t have to rely on middlemen to ge
 - Don’t have to trust lawyers to draft a contract
 - Don’t have to trust social networks to make a living
 
-Learn more: 
-[Ben Horowitz explains crypto](https://www.youtube.com/watch?v=l7QdIQVTly0)
+## Reference 
+- [Ben Horowitz explains crypto](https://www.youtube.com/watch?v=l7QdIQVTly0)
 
----
+
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[02-history-of-the-web]]
+- [[03-what-is-a-token]]

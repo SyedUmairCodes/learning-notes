@@ -50,3 +50,9 @@ At the final stage the proposal is ready to be included into the final spec of t
 
 ## Release schedule:
 Since 2016 ECMAScript has been releasing new features that have passed the above criteria and adding them to the official spec. Each version is named with ES followed by the version number. ES6 was released in 2015 which added many new features to the language. Before 2015 the last update to ECMAScript was in 2011 which was called ES5.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[02-variable-declaration]]
+- [[03-object-and-array-destructuring]]

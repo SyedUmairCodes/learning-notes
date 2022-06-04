@@ -9,3 +9,6 @@
 -  The first coins in history were struck around 640 BC by King Alyattes of Lydia, in western Anatolia. These coins had a standardized weight of gold or silver, and were imprinted with an identification mark. The mark testified to two things. First, it indicated how much precious metal the coin contained. Second, it identified the authority that issued the coin and that guaranteed its contents. Almost all coins in use today are descendants of the Lydian coins.
 
 > money is the most universal and most efficient system of mutual trust ever devised.
+
+
+**Tags:** #Books #Sapiens

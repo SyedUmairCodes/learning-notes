@@ -12,3 +12,9 @@ let b = "xyz"
 console.log(b) //At this point the variable a does not exist in the memory.
 
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[04-comments]]
+- [[05-comparing-variables]]

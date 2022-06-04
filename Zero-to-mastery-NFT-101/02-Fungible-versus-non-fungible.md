@@ -15,4 +15,9 @@ For something to be a non-fungible asset it has have three criteria:
 
 > The value of an item and its use determines whether it is fungible or non-fungible.
 
----
+
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[03-Why-NFTs]]
+- [[04-Blockchain-and-NFTs]]

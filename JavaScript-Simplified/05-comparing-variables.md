@@ -64,3 +64,9 @@ console.log( a <= b)
 ```
 
 These operators are also used for comparing strings, null, undefined, and Booleans (you cannot check greater or less than values for Booleans) similarly to numbers.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[06-functions]]
+- [[07-arrow-functions]]

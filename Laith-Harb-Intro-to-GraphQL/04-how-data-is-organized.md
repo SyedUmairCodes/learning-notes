@@ -27,3 +27,8 @@ GraphQL is very strictly typed we relate our data in GraphQL as we created it. W
 If we evolve this to include more fields or entities our query will get more and more complex. We can have one-to-many, many-to-many, or one-to-one relation with our entities.
 
 The data structure that we are using is called a graph data structure and that is why we call our query language GraphQL.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- 

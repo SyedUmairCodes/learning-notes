@@ -37,3 +37,8 @@ console.log(post)
 
 sendData();
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[28-local-storage]]

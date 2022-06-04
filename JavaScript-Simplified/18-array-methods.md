@@ -131,3 +131,9 @@ The easiest array method is called includes. You pass it a value and it return t
  console.log(includes);
 
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[19-template-strings]]
+- [[20-this-and-new-keywords]]

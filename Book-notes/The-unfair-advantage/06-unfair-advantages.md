@@ -9,3 +9,5 @@
 - Each person has their own unique unfair advantages and they cannot be replicated or be bought.
 - The more quickly you find your unfair advantage the more quicker you'll be successful in life.
 - You can have more than one unfair advantage or combine your and your friends unfair advantages together.
+
+**Tags:** #Books  #the-unfair-advantage

@@ -8,3 +8,8 @@ The last standard on the Ethereum network is called ERC-1155. This standard is l
 
 ERC-1155 is an super-set of the ERC-721 standard because it can hold classes and is a lot cheaper. You can also trade in bulk and also create ERC-721 tokens in an ERC-1155 token.
 
+**Tags:** #Web3 #Block-chain  
+
+## Previous lesson
+- [[05-What-is-ethereum]]
+- [[06-Smart-contracts]]

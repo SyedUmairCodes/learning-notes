@@ -5,3 +5,8 @@ How do people manage all that and still be not burned out? The main reason for t
 
 The two-minute tasks that can clutter up your schedule are a great example of tasks that you can complete in your downtime.
 
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[Ali-Abdaal-Productivity-masterclass/11-productive-procrastination]]
+- [[12-the-fun-factor]]

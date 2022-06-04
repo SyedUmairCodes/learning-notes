@@ -9,3 +9,9 @@ We can add multiple properties to our object at a time but we cannot access all 
 We don't use array destructuring as much as object destructuring but it still is a very useful thing in certain circumstances. Array destructuring allows us to efficiently use the properties that are available inside our array. 
 
 Destructuring allows us to filter out what exactly we want from an array or an object as well as setting default values for the properties that we need incase of any error.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[04.Shorthand properties and Computed properties]]
+- [[05-template-strings]]

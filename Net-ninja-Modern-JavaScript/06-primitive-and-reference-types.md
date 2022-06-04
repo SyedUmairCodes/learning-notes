@@ -8,3 +8,8 @@ When we create a primitive value like a string, that value is stored in memory i
 Reference types, on the other hand are stored in a place called the heap.
 
 A variable can be assigned an object. So, in the background what JavaScript does is that it adds that variable to the stack and then creates a pointer that points to the object that is placed in the heap.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[07-string-methods]]

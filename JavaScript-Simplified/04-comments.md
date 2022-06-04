@@ -8,3 +8,9 @@ let a = "ABC" //This is a single-line comment b = "XYZ" /* This is how you can
 add multiple line comments */
 
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[05-comparing-variables]]
+- [[06-functions]]

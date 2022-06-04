@@ -9,3 +9,9 @@ Transactional crypto currencies like ripple are used for small transactions beca
 You can further distribute crypto currencies by their ability to be mineable or not. Mineable crypto currencies like bitcoin allow users to take ownership of some bitcoins if they contribute to a new node on the block-chain. A non-mineable crypto currency is when all of the tokens or coins available on the block-chain is already available to the creator from the start and only they can distribute the coins or tokens to other people.
 
 When these types of crypto currencies are launched the creator usually launches a IPC that allows people to trade-in other crypto currencies for a portion of the newly launched one. Non-mineable crypto currencies are also not very much de-centralized as compared to mineable crypto currencies.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[14-regulations-and-inflation]]
+- [[15-the-problem-with-crypto]]

@@ -8,3 +8,9 @@ GraphQL server provides default providers so that you don't have to provide reso
 
 ## Batched resolving:
 If you have a resolver that fetches data from a database, it might e called multiple times during query execution. We can wrap our queries in a fetch function to remove this problem. The fetch function will wait for all of the resolvers to run, then make sure to only fetch each item once. If your API supports batched requests we can also make only fetch requests for multiple requests of the same type.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[08-advance-concepts]]
+- [[09-security]]

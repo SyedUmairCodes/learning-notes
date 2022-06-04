@@ -9,3 +9,5 @@
 - If you want to deliver simple and meaningful icons to your customers just use Emojis. Almost all of your users will be able to recognize emojis.
 - Progress bars should be linear and should show an integer value to show much the current task has been completed(20%, 50%...)
 - Spinner loading bard should show text below them that says loading... or still loading... This makes the user at ease.
+
+**Tags:** #Books #ux-principles

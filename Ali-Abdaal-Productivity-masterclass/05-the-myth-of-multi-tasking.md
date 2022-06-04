@@ -6,3 +6,9 @@ Doing one thing at a time will be very effective in boosting your productivity r
 When you focus all of your attention at a single task and without any direction you enter the "Flow" state. The flow state is the state of human body and mind where we are at peek productivity levels. We enter the "flow state" when we are doing a task that we voluntarily wanted to do. To boost your productivity we need to be in this state whenever we are doing a task.
 
 The flow state is the peek productivity level. But getting to that level is not easy. You need to remove all distractions (Mobile, notifications, emails, social media, chores) and be in a place you're most comfortable at and wear clothing that makes you comfortable.  Once you are in the FLOW state you can achieve anything.
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[06-parkinsons-law]]
+- [[07-pareto-principle]]

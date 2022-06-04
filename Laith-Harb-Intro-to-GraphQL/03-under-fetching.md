@@ -41,3 +41,8 @@ GraphQL provides the right solution to this problem, using GraphQL we can create
 ```
 
 This GraphQL is a perfect query for our use case. Using this query we are not over or under fetching, we are getting the exact data that we needed.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[04-how-data-is-organized]]

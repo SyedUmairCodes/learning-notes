@@ -8,3 +8,5 @@
 - If we look closely, each new idea or invention is just mix-up of previous ideas and inventions.
 - You should only collect selected ideas that inspire you and not hoard every single idea that you come across.
 - Find a mentor, and focus on him and not his work then find three people that your mentor follows and start following them repeat this cycle until you become a mentor.
+
+**Tags:** #Books  #steal-like-an-artist

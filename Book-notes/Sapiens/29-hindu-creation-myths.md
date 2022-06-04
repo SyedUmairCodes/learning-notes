@@ -8,3 +8,5 @@
 
 > Telling effective stories is not easy. The difficulty lies not in telling the story, but in convincing everyone else to believe it.
 
+
+**Tags:** #Books #Sapiens

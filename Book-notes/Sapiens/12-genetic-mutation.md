@@ -8,3 +8,5 @@
 - A second theory agrees that our unique language evolved as a means of sharing information about the world. But the most important information that needed to be conveyed was about humans, not about lions and bison. 
 - Our language evolved as a way of gossiping. According to this theory, Homo sapiens is a primarily social animal. Social cooperation is our key to survival and reproduction. 
 - It is not enough for individual men and women to know the whereabouts of lions and bison. It’s much more important for them to know who in their band hates whom, who is sleeping with whom, who is honest, and who is a cheat.
+
+**Tags:** #Books #Sapiens

@@ -5,3 +5,9 @@ The Metaverse is a term used to describe a virtual reality worlds which you can 
 We can have office meetings or family gathering while sitting at our homes and it will feel and look like you're all together at the same place.
 
 A lot of people and big corporations are spending a lot of money on this concept and this is can be great news for Web 3.0.
+
+**Tags:** #Web3 #Block-chain 
+
+## Previous lesson
+- [[19-IPFS]]
+- [[20-upgrading-the-block-chain]]

@@ -15,3 +15,5 @@
 - You top navigation should also be repeated in the footer links section. Don't make the footer a deadly-end section and include a search bar or subscribe to newsletter section in it.
 - Add filters and sorting order in your apps search to make searching easier for your users.
 - If your user is too deep in your apps a great way to show them exactly where they are is using breadcrumbs for navigation.
+
+**Tags:** #Books #ux-principles

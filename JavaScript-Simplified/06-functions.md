@@ -116,3 +116,9 @@ let ans = Sum(x,y)
 console.log(ans) //This will display the value of the sum function in your console.
 
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[07-arrow-functions]]
+- [[08-call-stack-and-stack-trace]]]

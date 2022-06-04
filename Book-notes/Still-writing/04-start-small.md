@@ -7,3 +7,5 @@
 - Breakdown your bigger problems into smaller ones, Everyone starts some where, practice by creating small projects that are bad and do only a simple function.
 - Keep practicing, Eventually these small bad projects will combine into one amazing project.
 - You'll always find a creative person practicing, and only practicing.
+
+**Tags:** #Books #still-writing

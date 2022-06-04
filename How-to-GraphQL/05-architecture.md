@@ -19,3 +19,9 @@ The client sends a query the resolver will call all of the functions for its fie
 
 # Client libraries
 GraphQL is mostly used by front-end developers because it eliminates most of the shortcomings that front-end developers face with REST. There are many client libraries like Apollo that will enable you to use GraphQL on the front-end of your application, these libraries provide all the tools necessary to focus on the important parts of your application rather than dealing with other things. 
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[06-client]]
+- [[07-server]]

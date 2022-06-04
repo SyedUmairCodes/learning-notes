@@ -17,3 +17,9 @@ The above code snippet will print out all of the methods available in the math o
 Notice that we are using dot notation when accessing the Pi method from the math object.
 
 There are many more built-in methods in the math object such as round, ceil, area, and random.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[05-objects]]
+- [[06-primitive-and-reference-types]]

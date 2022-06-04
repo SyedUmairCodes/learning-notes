@@ -9,3 +9,9 @@ The UTXO set is also maintained by the same computers that represent the bitcoin
 The UTXO set is used by bitcoin and other block-chains that are based on bitcoin or are similar. Meanwhile, Ethereum uses a different approach.
 
 Ethereum uses a state database. This database is similar to the UTXO set but is more simpler and flexible but doesn't provide that much privacy as much as the UTXO set.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[06-wallets-and-adresses]]
+- [[07-proof-of-work]]

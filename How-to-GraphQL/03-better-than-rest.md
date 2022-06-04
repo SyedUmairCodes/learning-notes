@@ -35,3 +35,9 @@ It's also possible to do a low-level performance monitoring of the API using the
 GraphQL uses a strongly typed system to define an API. The types that are exposed in an API are written using a schema using the GraphQL Schema Definition Language(SDL). This schema acts as a contract between the server and the client to define how a client can access data from the server.
 
 After the schema is defined the back-end team can further continue their work and the front-end team can refine the front-end as they require.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[04-core-concepts]]
+- [[05-architecture]]

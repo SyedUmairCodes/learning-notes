@@ -44,3 +44,9 @@ a(2)
 inside of another function */
 
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[12-advanced-variables]]
+- [[13-type-coercion]]

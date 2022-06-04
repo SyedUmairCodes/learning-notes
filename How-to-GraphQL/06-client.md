@@ -22,3 +22,9 @@ The schema contains all information about the data that a client can request fro
 
 ## Co-locating views and Data dependencies
 GraphQL allows tight coupling of views and data, this greatly improves the development experience. Both of the requirements are shown side-by-side. However, this experience is not always the same for every technology.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[07-server]]
+- [[08-advance-concepts]]

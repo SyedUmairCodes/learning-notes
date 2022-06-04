@@ -6,3 +6,9 @@ When you create a front-end user interface for any of your smart contracts its t
 Web3.js is a JavaScript library that allows you to read and write data to the Ethereum block-chain using JavaScript. You don't necessarily need to use JavaScript. You can use any programming language to create front-ends for your DApps.
 
 There are also different types of block-chains that you can host your DApps on like Ethereum and Solana. In Ethereum the more complex transaction that is performed by your DApp the more gas fees you'll have to pay for it.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[19-IPFS]]
+- [[20-upgrading-the-block-chain]]

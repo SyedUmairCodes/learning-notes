@@ -43,3 +43,9 @@ The replace method again as the name implies replaces a single or multiple chara
  let replace = greeting.replace("w","Y");
  console.log(replace);
 ```
+
+**Tags:** #JavaScript  
+
+## Previous lesson
+- [[05-objects]]
+- [[06-primitive-and-reference-types]]

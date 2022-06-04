@@ -8,3 +8,5 @@
 - Don't make uploading images hard. The image picker user-interface should offer two choices, Select a picture from the gallery or open the camera. If you're giving them the option to select an image from the gallery add an option to select multiple images all at once.
 - E-commerce apps should a simple 3-step process to make the users process as friction-less as possible.  **See Product > Add to cart > Checkout** This is the best possible process to sell more products from your e-commerce business. Adding another step in between these creates unnecessary friction which diverts the user.
 - Terminology in software should not be confusing for the end-user. Make your menu entries like "Sign up" easy to read don't use words like "Log on" because it will just confuse them.
+
+**Tags:** #Books #ux-principles

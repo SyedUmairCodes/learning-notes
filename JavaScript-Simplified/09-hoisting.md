@@ -56,3 +56,9 @@ return a + b
 ```
 
 Hoisting does not work with arrow functions because arrow functions are defined as variables and you cannot hoist variables as we have seen above.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[10-scoping]]
+- [[11-closures]]

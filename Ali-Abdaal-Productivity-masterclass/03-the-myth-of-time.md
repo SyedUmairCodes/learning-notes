@@ -10,3 +10,9 @@ Canceling plans, delaying going to the gym or watching Netflix instead of doing 
 Your time is in your control and you decide what to do with it. If you give a fat and obese person a thousand dollars every time he goes to the gym with you or give a college student a thousand dollars for completing their homework everyday you will see that they will do it without you even telling them (You would also go broke.) because exercising at the gym or getting good grades is not their top priority. Their top priority is the thousand dollars.
 
 So the phrase "I don't have time" should be re-phrased to "I am actively choosing to do this (whatever it may be) with my time than that (the other option)"
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[04-the-myth-of-motivation]]
+- [[05-the-myth-of-multi-tasking]]

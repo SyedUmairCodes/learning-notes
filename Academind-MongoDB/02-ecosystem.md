@@ -8,3 +8,8 @@ MongoDB, the company behind the database solution also has other products that m
 5. BI-charts or MongoDB charts is an option for data scientists that want to gain insights from their data stored in MongoDB.
 
 The above options are the core offerings of MongoDB which revolve around the core MongoDB database. Stitch is a new offering from MongoDB which is their serverless backend solution that offers a serverless query API and serverless functions which is equivalent to AWS lambdas. Stitch also offers database triggers and real-time syncing functionality.
+
+**Tags:** #MongoDB #Databases 
+
+## Next lesson
+- [[03-shell-and-drivers]]

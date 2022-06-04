@@ -13,3 +13,9 @@ This version is the current version of the internet that we use in our daily liv
 
 ## Web 3.0
 In 2008 satoshi nakamoto created a digital currency called bitcoin and from there on out the era of the decentralized web had begun.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[02-block-chain-immutability]]
+- [[03-block-chain-distributed]]

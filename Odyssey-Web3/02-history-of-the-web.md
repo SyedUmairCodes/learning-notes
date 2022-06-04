@@ -22,3 +22,8 @@ Bitcoin was introduced in 2009 which gave a huge boost to the move towards Web 3
 We are slowly seeing Web2 platforms think about what it means to start building products and services that fit within Web3, such as [Twitter’s Bluesky Project](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816729) which set out to make a decentralized standard for social media. As with the shift from Web 1.0 to Web 2.0, the shift from Web 2.0 to Web 3.0 is largely due to infrastructure advancement, but there will be a mindset shift for builders and developers as governance will be much more user-centered. With the removal of a middleman and data living on immutable infrastructure, there is no control over data thus no censorship and less risk of data loss.
 
 Web 3.0 is gaining attention of consumers and developers faster than both Web 1.0 and 2.0 combined.
+
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[03-what-is-a-token]]

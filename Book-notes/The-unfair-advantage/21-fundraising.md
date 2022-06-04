@@ -7,3 +7,5 @@
 - Before you start raising funds for your product you'll need a strong product that is worth investing in.
 - When approaching an investor for funding always make your introduction as concise as possible. Use simple words and avoid any type of jargon or marketing tactics.
 
+
+**Tags:** #Books  #the-unfair-advantage

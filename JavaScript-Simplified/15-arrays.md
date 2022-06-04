@@ -74,3 +74,9 @@ console.log(employee[1][1]);
 ```
 
 The above code snippet will print out the age of Drake which is 24. This is a very simple way to access specific data in a nested array.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[16-objects]]
+- [[17-reference-vs-values]]

@@ -47,3 +47,9 @@ In the above code snippet we have passed a function to an object, and when we us
 
 Objects work the same way as arrays do, so you can say that they are a collection of information.
 
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[17-reference-vs-values]]
+- [[18-array-methods]]
+

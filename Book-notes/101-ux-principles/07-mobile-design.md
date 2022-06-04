@@ -10,3 +10,5 @@
 - On mobile devices use a slide-in navigation to make users show there are more items in the menu.
 - Always save the users position if your app uses infinite scroll because no one wants to keep scrolling forever. 
 - Avoid using hamburger menus for less than 5 menu items. You can instead use a bottom or tabbed navigation instead of a hamburger menu.
+
+**Tags:** #Books #ux-principles

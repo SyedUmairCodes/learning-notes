@@ -9,3 +9,9 @@ You open your computer and find out about the details of the customer and it dis
 The computer result gives a lot of unwanted information. The company that made the software to check the information about the customers were told of this problem and then they implemented a drop-down function in their software that allows you to check only the required details about a particular customer.
 
 The drop-down is GraphQL in a nut shell.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[02-over-fetching]]
+- [[03-under-fetching]]

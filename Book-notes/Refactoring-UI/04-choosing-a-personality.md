@@ -11,3 +11,5 @@
 - Using a formal tone in the text areas of the design such as instructions and greetings will give the sense of professionalism and using a casual tone will make your design more friendlier to the end-user.
 - If you're a new designer on a team there will be a possibility that your team follows a design system which will give you pre-defined colors, fonts, and other design guidelines so that you won't have to think much about them.
 -  Borrowing inspiration from other designers is a good thing but don't over due it to look like a cheap copy of their designs.
+
+**Tags:** #Books #refactoring-ui

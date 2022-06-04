@@ -15,6 +15,11 @@ function calculatePayment(total, discount = 10, salesTax = 0.47);
 function calculatePayment(total,discount,salesTax){
 	 salesTax = typeOf salesTax === 'undefined' ? 0.47 : salesTax
 }
-
 ```
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[08-polyfills-and-babel]]
+- [[09-execution-context]]
 

@@ -5,4 +5,9 @@ Ownership of an asset means that you can re-sell it freely. Currently we don't h
 
 These are the types of questions and scenarios that NFTs as a technology is trying to solve. Each NFT is a unique online asset that cannot be copied or replaced because the proof of ownership is available publicly online on a de-centralized ledger called the block-chain. 
 
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[04-Blockchain-and-NFTs]]
+- [[05-What-is-ethereum]]
 

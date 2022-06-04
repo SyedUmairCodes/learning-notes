@@ -24,3 +24,9 @@ let func( a, b ) => a + b //This is an arrow function.
 ```
 
 The biggest advantage of arrow functions is when you are passing a function to another function because write less code when using arrow functions. When creating anonymous functions using arrow functions you just need the parentheses and the arrow symbol Which results in less code being written.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[08-call-stack-and-stack-trace]]
+- [[09-hoisting]]

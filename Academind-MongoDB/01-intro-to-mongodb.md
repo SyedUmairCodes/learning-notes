@@ -9,9 +9,15 @@ MongoDB gives you the facility of schema-less flexibility. A traditional databas
 
 Documents in MongoDB store data in JSON format which is very easy to work with for developers.
 
-### Key Characteristics
+## Key Characteristics
 MongoDB is called a No-SQL database solution because it follows the opposite rules that SQL based database solutions like MySQL or MSSQL follow. Instead of normalizing data by storing it in multiple tables and joining them together using relations MongoDB stores data together in a single document and also doesn't force the user to follow a schema. 
 
 This means that a collection containing user information can accept documents that have missing or undefined fields which is not possible in a SQL based database.
 
 You can use MongoDB for an app whose database requirements have not yet been defined and it will be defined as the app scales. You also have less relations to work with because all of the data is a document.
+
+**Tags:** #MongoDB #Databases
+
+## Next lesson
+- [[02-ecosystem]]
+- [[03-shell-and-drivers]]

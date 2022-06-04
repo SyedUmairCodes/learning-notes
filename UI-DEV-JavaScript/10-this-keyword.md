@@ -99,3 +99,9 @@ This happens because if we don't provide any context to the **This** keyword it 
 window.age = 22;
 Age()
 ```
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[11-functions]]
+- [[12-prototype]]

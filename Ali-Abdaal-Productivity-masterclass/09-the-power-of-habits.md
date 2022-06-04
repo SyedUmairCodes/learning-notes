@@ -14,3 +14,9 @@ Changing habits is not about a temporary goal. (Its about drive, Its about power
 When you'll create your own identity or self-image by your habits it will be very hard for you to skip a day and not perform that habit. (I'm a developer and if I don't code or read an article about programming every day I just feel bad from the inside.)
 
 Productivity is a mindset. If you believe that you are a productive person you'll be one. If you think you're a failure you will live your whole life as a failure.
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[10-productive-downtime]]
+- [[Ali-Abdaal-Productivity-masterclass/11-productive-procrastination]]

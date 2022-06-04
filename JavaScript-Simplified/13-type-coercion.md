@@ -52,3 +52,9 @@ The above code snippet will return “Hello1” printed in the console. because 
 If you are comparing variables that have different data types always use the triple equals sign “ === ” because this will not let JavaScript do type coercion just don’t do this when comparing undefined and null values.
 
 You can also apply all of these rules to not equal as well “ ≠ ”
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[14-NaN]]
+- [[15-arrays]]

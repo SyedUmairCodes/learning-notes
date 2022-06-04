@@ -28,3 +28,9 @@ To remove this bad habit from ourselves the easiest way is that we should put ou
 There are also two things that we can do to increase our output quantity. Firstly, As we have discussed above. We can shorten or feedback loop. the quicker we feel or see changes in our body or work the more motivated we will feel to do the required task.
 
 Salience outcomes are the second thing that makes our outputs more effective because if we watch a youtuber's vlog giving us a tour of the University he is attending and we wanted to attend the same University we get inspired by watching him and we start daydreaming about ourselves attending the same University. 
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[05-the-myth-of-multi-tasking]]
+- [[06-parkinsons-law]]

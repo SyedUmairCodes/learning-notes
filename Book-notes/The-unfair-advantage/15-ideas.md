@@ -7,3 +7,5 @@
 - Investors don't want to invest in ideas like this, they only want to invest in ideas that are capable of disturbing entire industries or put a company out of business.
 - If your idea is completely new you'll have to educate your users about your service. The second company that mimics you won't have to deal with that because you've already done the ground work for them.
 - If you can't find an idea that can change a persons life or disrupt an entire industry try to think of a problem that you have in your daily life and try solving that.
+
+**Tags:** #Books  #the-unfair-advantage

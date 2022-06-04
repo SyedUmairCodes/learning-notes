@@ -10,3 +10,9 @@ Template strings allow you to add quotes or variables in your strings.
  const intro = `My name is ${name} and I am ${age} years old`;
  console.log(intro)
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[20-this-and-new-keywords]]
+- [[21-recursion]]

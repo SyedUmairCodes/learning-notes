@@ -85,3 +85,9 @@ console.log(variable)
 ```
 
 Running the above code snippet will print out the text “Hello Jhon” in the console. You will notice that this and the code before it does the same thing only this time we didn’t create two functions instead we just used an anonymous function to do the work of the second one. Anonymous functions are the same as a normal function we just write it where we want to call it instead of creating it first.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[23-short-circuit-evaluation]]
+- [[24-asynchronous-javascript]]

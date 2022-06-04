@@ -10,3 +10,5 @@
 	- The Andean World, which encompassed most of western South America.
 	- The Australian World, which encompassed the continent of Australia.
 	- The Oceanic World, which encompassed most of the islands of the south-western Pacific Ocean, from Hawaii to New Zealand.
+
+**Tags:** #Books #Sapiens

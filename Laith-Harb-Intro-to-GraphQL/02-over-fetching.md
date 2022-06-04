@@ -88,3 +88,9 @@ This exact over fetching scenario can also happen in our single product page. Th
 ```
 
 If we look at REST and GraphQL we can notice that a REST API provides all of the information that is available at the endpoint that we requested but with GraphQL we can filter the data according to our needs.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[03-under-fetching]]
+- [[04-how-data-is-organized]]

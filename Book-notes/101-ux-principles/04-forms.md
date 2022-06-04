@@ -12,3 +12,5 @@
 - In-app search results should always show the most relatable content on the top and less relatable after that.
 - Make it easier for the user to input credit card and postal code address in the forms.
 - In your form controls use both placeholders and labels. The label tells the user what to put in this field and the placeholder tells him that how to put it.
+
+**Tags:** #Books #ux-principles

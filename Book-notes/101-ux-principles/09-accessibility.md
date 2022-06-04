@@ -17,3 +17,5 @@
 - If you have a notifications feature in your app make sure the user can customize the amount and frequency of the notifications he receives.
 - If your user is new user and is using your app for the first time. make sure there is a "skip this" link on your on-boarding page.
 - Hide "Advanced settings" most users. Only give access to the power users to these settings.
+
+**Tags:** #Books #ux-principles

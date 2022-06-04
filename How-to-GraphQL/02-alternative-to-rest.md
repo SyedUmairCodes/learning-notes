@@ -18,3 +18,8 @@ Being open-sourced GraphQL was quickly adopted by most major programming languag
 
 GraphQL is used by many companies today such as GitHub, Twitter, and many more.
 
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[03-better-than-rest]]
+- [[04-core-concepts]]

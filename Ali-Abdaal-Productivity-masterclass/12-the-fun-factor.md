@@ -6,3 +6,9 @@ If you don't enjoy your School/University life and think that getting a job will
 When you're an employee at a high-value company you will struggle and always keep reminding yourself that once I get a promotion my life will be set. After that promotion you will want to become the boss and after that the CEO.
 
 If you don't enjoy the process of doing whatever is that you choose. You will never "Fully" enjoy the end.
+
+**Tags:** #Learning #Productivity 
+
+## Previous lesson
+- [[10-productive-downtime]]
+- [[Ali-Abdaal-Productivity-masterclass/11-productive-procrastination]]

@@ -10,3 +10,9 @@ The whole bitcoin network mines new blocks at the same time and this consumes a 
 The insane amount of power required to operate a bitcoin mining network and the effect of this on the environment is the main con of block-chain networks. 
 
 Each block only needs a single three-digit hash in the bitcoin block-chain but there are so many people mining these hashes that for every single correct hash there are more than a billion rejected hashes that are wasted.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[08-proof-of-stake]]
+- [[09-ethereum]]

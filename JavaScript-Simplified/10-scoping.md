@@ -33,3 +33,9 @@ myName(name)
 This is all thanks to a feature called scope or scoping in JavaScript. The way that scoping works is every time that you have a set of curly braces like the inside of function will have its scope. Every function has its scope. We also have the global scope in JavaScript which contains all of the code that you have written in the JavaScript file. inside the global scope, we have smaller scopes as we mentioned before.
 
 Scopes are like one-way doors if you are in the scope of a function you can access the global scope. But you cannot access the scope of a function from the global scope.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[11-closures]]
+- [[12-advanced-variables]]

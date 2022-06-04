@@ -15,3 +15,9 @@ When Babel compiles your code and changes the ES6 syntax to ES5 so that older br
 
 Arrow functions can be compiled by Babel into ES5 syntax which means old way of writing functions using the function keyword. This is the same for classes. 
 The promises feature introduced in ES6 needs to be polyfilled because Babel cannot transform the syntax of a promise to native code.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[09-execution-context]]
+- [[10-this-keyword]]

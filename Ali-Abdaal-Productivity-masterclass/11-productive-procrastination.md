@@ -6,3 +6,8 @@ Any type of output that is productive is better than no output at all. Even when
 - Listen to audiobooks than music.
 
 There are many more examples then these. 
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[12-the-fun-factor]]

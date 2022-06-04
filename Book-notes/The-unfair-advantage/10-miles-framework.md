@@ -36,3 +36,6 @@
 - Status is a great unfair advantage because people trust the person they respect and the higher your status will be the more people will trust you.
 - If you don't belong to wealthy family and don't live in mansions your status will be lower than the person that does. But this can easily be changed by the unfair advantage of money, With money you can buy all the luxurious things that can help you raise your status.
 - Show off, Tell people about all of your achievements and the good that you have done because this will also increase the amount of respect that most people give you. But don't start bragging about it because you'll end up lowering your respect and make a fool out of yourself.
+
+**Tags:** #Books  #the-unfair-advantage
+

@@ -9,3 +9,5 @@
 - So if I want to experience pleasant feelings, I have to constantly chase them, while driving away the unpleasant feelings. Even if I succeed, I immediately have to start all over again, without ever getting any lasting reward for my troubles.
 
 > suffering arises from craving; the only way to be fully liberated from suffering is to be fully liberated from craving
+
+**Tags:** #Books #Sapiens

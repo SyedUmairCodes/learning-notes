@@ -22,3 +22,9 @@ Whenever a client subscribes to an event, it will initiate and hold a study conn
 
 # Schema
 The schema is one of the most important factors in a GraphQL API. The schema defines the capabilities of the API and defines how the client can access the data from the server, kind of like a contract between the client and the server.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[05-architecture]]
+- [[06-client]]

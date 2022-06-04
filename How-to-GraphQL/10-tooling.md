@@ -11,3 +11,8 @@ GraphQL Playground is a powerful “GraphQL IDE” for interactively working wi
 
 It is an incredibly powerful tool for development. It allows you to debug and try queries on a GraphQL server without having to write plain GraphQL queries over curl, for example.
 
+**Tags:** #GraphQL 
+
+## Previous lesson
+- [[08-advance-concepts]]
+- [[09-security]]

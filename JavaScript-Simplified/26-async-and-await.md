@@ -8,4 +8,10 @@ async function sum(){
 }
 ```
 
-You can use a try-catch block to catch any type of errors that occur in your code.
+You can use a try-catch block to catch any type of errors that occur in your code
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[27-fetch-api]]
+- [[28-local-storage]]

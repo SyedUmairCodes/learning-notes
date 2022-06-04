@@ -31,3 +31,8 @@ If we have an object, and we wanted to create a child object we can use the obje
 Prototype in JavaScript is a property of an Object that point to that its just a property on a function.
 
 >A prototype in just a property on a function that point an Object.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[13-modules]]

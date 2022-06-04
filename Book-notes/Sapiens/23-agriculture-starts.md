@@ -7,3 +7,5 @@
 - Some animals and plants, such as camels and cashew nuts, were domesticated even later, but by 3500 BC the main wave of domestication was over.
 - Scholars once proclaimed that the agricultural revolution was a great leap forward for humanity. They told a tale of progress fueled by human brain power. Evolution gradually produced ever more intelligent people. 
 - Eventually, people were so smart that they were able to decipher nature’s secrets, enabling them to tame sheep and cultivate wheat. As soon as this happened, they cheerfully abandoned the grueling, dangerous, and often spartan life of hunter-gatherers, settling down to enjoy the pleasant, satiated life of farmers.
+
+**Tags:** #Books #Sapiens

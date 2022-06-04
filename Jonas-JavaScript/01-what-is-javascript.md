@@ -9,3 +9,7 @@ HTML is used to structure the contents of the website, CSS is used for styling w
 
 JavaScript can be used to create almost any type of application and not just web applications. We can use it to create mobile apps, desktop apps as well as run it on our back-end servers.
 There isn't anything you can't build with JavaScript.
+
+**Tags:** #JavaScript 
+
+## Next lesson

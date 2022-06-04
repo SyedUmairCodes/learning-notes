@@ -5,3 +5,9 @@ When he needs to attend a meeting or collaborate with other team members on the 
 soft skills are basically the ability to communicate well with others, leading the team, showing empathy, collaborate effectively with other team members and managers, handling pressure, meeting deadlines, handling uncertainty and emotional situations.
 
 > Soft skills are required in every field.
+
+**Tags:** #Learning #Productivity
+
+## Next lesson
+- [[02-the-productivity-equation]]
+- [[03-the-myth-of-time]]

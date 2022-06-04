@@ -28,3 +28,9 @@ let a = "Hello world"
 console.log(isNaN(a)) //This will return true.
 
 ```
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[15-arrays]]
+- [[16-objects]]

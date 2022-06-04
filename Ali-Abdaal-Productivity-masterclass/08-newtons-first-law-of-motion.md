@@ -8,3 +8,9 @@ We don't want to do things that are painful in the beginning  and fruitful in th
 The two-minute rule states that if a task takes less than two-minutes to complete you should do it now instead of thinking you'll do it when the time comes. If you let these tiny little tasks pile up they'll turn into a mountain before you even know it.
 
 The five-minute rule states that if you have a task that you don't want to complete but have to do. (Assignment, meeting, etc..) Just do it for 5-minutes. This tricks our brain into doing that task. The more you work on your assignment the more quickly you'll enter your flow state.
+
+**Tags:** #Learning #Productivity 
+
+## Next lesson
+- [[09-the-power-of-habits]]
+- [[10-productive-downtime]]

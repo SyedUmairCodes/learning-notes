@@ -33,3 +33,9 @@ Since JavaScript is a living language and it's always evolving there wasn't any 
 This new module system called ES Modules was introduced with the ES6 update and is now baked into the language itself.
 
 ES Modules support Async operations out of the box so we don't have to use a bundler. ES Modules also made importing and exporting a whole lot easier.
+
+**Tags:** #JavaScript  
+
+## Previous lesson
+- [[11-functions]]
+- [[12-prototype]]

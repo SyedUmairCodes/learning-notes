@@ -8,4 +8,4 @@
 - There are going to be some advantages that only you'll or your friend will have. Those are called natural talents.
 - Keep in mind, don't use any illegal means like cheating or bribery and call it an advantage because that  is an unethical practice and is not recommended.
 
-
+**Tags:** #Books  #the-unfair-advantage

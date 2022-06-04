@@ -28,3 +28,8 @@ Liquidity means that I can sell my NFts on marketplaces that will give me cash o
 ## Program-ability
 NFTs also need to support the ability to hold code inside of them. We can program NFTs that will allow us to execute certain tasks at a certain period of time.
 
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[05-What-is-ethereum]]
+- [[06-Smart-contracts]]

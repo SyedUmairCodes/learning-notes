@@ -11,3 +11,9 @@ Sets are a new data structure in the object types. Introduced in ES6, sets are l
 Symbols are a new data type released in the ES6 update to JavaScript. The unique feature of symbols is that each symbol is unique and two symbols cannot have the same value.
 
 Symbols are a great way to define keys in objects.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[03-event-bubbling]]
+- [[04-math-object]]

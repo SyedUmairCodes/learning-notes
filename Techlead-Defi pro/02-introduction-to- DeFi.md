@@ -10,3 +10,8 @@ Liquidity is the most important factor in DeFi. Liquidity is the ability to exch
 DeFi is a rapidly changing field and it can be used for pretty much anything related to crypto currencies. 
 
 There are other block chains rather than Ethereum that have a low gas price such as Avalanche, Chronos, and Phantom block chain have better yields.
+
+**Tags:** #Web3 #Block-chain 
+
+## Previous lesson
+- [[01-introduction-to-block-chain]]

@@ -10,3 +10,9 @@ This allows people to make games and apps on the Ethereum block-chain. This code
 All of these advanced transactions on the Ethereum block-chain is not free. All of the transactions performed on the Ethereum block-chain a small amount called gas has to be paid in order to complete the transaction.
 
 Gas, is the fees you'll pay to interact with the Ethereum block-chain.
+
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[10-ethereum-smart-contracts]]
+- [[11-ethereum-virtual-machine]]

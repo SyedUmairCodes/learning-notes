@@ -7,3 +7,8 @@ A crypto wallet is like a bank and the addresses are like bank accounts. The dev
 This process of having multiple addresses keeps the users details private and also makes the transactions public.
 
 
+**Tags:** #Web3 #Block-chain 
+
+## Next lesson
+- [[07-proof-of-work]]
+- [[08-proof-of-stake]]

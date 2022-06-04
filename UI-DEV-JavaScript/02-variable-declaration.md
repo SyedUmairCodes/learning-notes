@@ -11,3 +11,9 @@ Variables created with the let keyword are same as those created with the var ke
 
 ### const:
 Variables created with the const keyword are constant. You cannot change their values after it has been defined like you can reassign values to variables created with let. Other than this the const keyword is the same as let.
+
+**Tags:** #JavaScript  
+
+## Next lesson
+- [[03-object-and-array-destructuring]]
+- [[04.Shorthand properties and Computed properties]]

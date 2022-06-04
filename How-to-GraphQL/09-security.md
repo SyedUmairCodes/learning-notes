@@ -46,4 +46,7 @@ You can limit clients to how much time they can access the server and then have 
 ### Throttling based on complexity
 Throttling clients' access to the server-based upon the complexity of their queries is a great way to stay within the limits of the schema.
 
----
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[10-tooling]]

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "44d888e878364545",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48253105defae23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfb1f6a92acc58fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e566df1c26231f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e7d099471d8234e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "143f02b360d6dc4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74c195f2149f1e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b592b443e8a9f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "122ce4ee19c0a749",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f48253105defae23",
+  "lastOpenFiles": [
+    "README.md",
+    "images/graph.png",
+    "Book-notes/Everything-is-fucked/01-be-a-hero.md",
+    "Book-notes/Everything-is-fucked/10-the-two-brains.md",
+    "Book-notes/Everything-is-fucked/09-emotional-problems.md",
+    "Book-notes/Everything-is-fucked/08-straight-values.md",
+    "Book-notes/Everything-is-fucked/07-the-classic-assumption.md",
+    "Book-notes/Everything-is-fucked/06-build-and-maintain-hope.md",
+    "Book-notes/Everything-is-fucked/05-nihilism.md",
+    "Book-notes/Everything-is-fucked/04-opposite-of-happiness.md"
+  ]
+}

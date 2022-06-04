@@ -29,3 +29,9 @@ console.log(message)
 ```
 
 The above code snippet is a great example of how promises work.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[26-async-and-await]]
+- [[27-fetch-api]]

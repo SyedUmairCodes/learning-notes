@@ -30,3 +30,9 @@ Interfaces can be used in GraphQL to abstract types. It allows you to specify a 
 Union types can be used to express that a type should be either of a collection of other types. 
 
 This brings up a different problem, In a GraphQL query where we ask to retrieve information about a child but only have a person type to work with, how do we know whether we can actually access this field? The answer to this is called conditional fragments.
+
+**Tags:** #GraphQL 
+
+## Next lesson
+- [[09-security]]
+- [[10-tooling]]

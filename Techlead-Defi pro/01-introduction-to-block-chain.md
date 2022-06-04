@@ -18,3 +18,7 @@ Then, people started creating their own block chains based on Ethereum which are
 
 These new and smaller block chains provided more yield and required lesser gas which became the reason for their popularity and these smaller block chains are where most of the DeFi happens. 
 
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[02-introduction-to- DeFi]]

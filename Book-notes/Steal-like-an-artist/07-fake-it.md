@@ -5,3 +5,5 @@
 # Fake it
 - Just start pretending to do something until you finally finish doing it.
 - All of the world is your stage. Dress like who you wanna become, sit and talk with people that inspire you.
+
+**Tags:** #Books  #steal-like-an-artist

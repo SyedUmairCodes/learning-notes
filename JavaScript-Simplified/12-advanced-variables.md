@@ -19,3 +19,9 @@ The var keyword is the old way to define a keyword which was replaced by the let
 The reason the var keyword was replaced by the let keyword is that variables created using the var keyword acted very differently as compared to variables in other programming languages. When we discussed scoping and hoisting we learned that variables cannot be hoisted and that variables are only available inside their scopes. That is not the case with variables created using the var keyword. Variables created using the var keyword can be accessed outside of their scopes, meaning you can hoist the variables created using this keyword, You can also redefine variables created with this keyword and it will just overwrite the previous one.
 
 The var keyword goes against all rules of modern JavaScript and is there not recommended, you can use the let and const keywords instead of var.
+
+**Tags:** #JavaScript 
+
+## Next lesson
+- [[13-type-coercion]]
+- [[14-NaN]]

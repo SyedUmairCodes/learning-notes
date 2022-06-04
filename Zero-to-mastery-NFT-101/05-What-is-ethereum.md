@@ -6,3 +6,9 @@ Ethereum powers a lot of different things and is a lot of different things. You 
 Ethereum acts like a burner fuel for the things that you want to accomplish on the block-chain. Ethereum is a programmable block-chain. It allows you take code and deploy it on the Ethereum network. 
 
 There is a whole standard and process for deploying code on the Ethereum platform. You cannot just deploy any code that you write.
+
+**Tags:** #Web3 #Block-chain  
+
+## Next lesson
+- [[06-Smart-contracts]]
+- [[07-NFT-standards]]
