@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f48253105defae23",
+        "id": "b48eea0e79317690",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Business-analytics-nanodegree/01-what-is-data.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Business-analytics-nanodegree/01-what-is-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f48253105defae23",
+  "active": "b48eea0e79317690",
   "lastOpenFiles": [
-    "README.md",
-    "images/graph.png",
-    "Book-notes/Everything-is-fucked/01-be-a-hero.md",
+    "Business-analytics-nanodegree/01-what-is-data.md",
+    "Business-analytics-nanodegree/Exploring-data.pdf",
+    "Book-notes/Keep-going/20-take-a-nap.md",
+    "Book-notes/Keep-going/19-tidying-up.md",
+    "Book-notes/Zero-to-one/02-progress.md",
+    "Book-notes/Zero-to-one/01-the-future.md",
     "Book-notes/Everything-is-fucked/10-the-two-brains.md",
     "Book-notes/Everything-is-fucked/09-emotional-problems.md",
     "Book-notes/Everything-is-fucked/08-straight-values.md",
-    "Book-notes/Everything-is-fucked/07-the-classic-assumption.md",
-    "Book-notes/Everything-is-fucked/06-build-and-maintain-hope.md",
-    "Book-notes/Everything-is-fucked/05-nihilism.md",
-    "Book-notes/Everything-is-fucked/04-opposite-of-happiness.md"
+    "Book-notes/Everything-is-fucked/07-the-classic-assumption.md"
   ]
 }

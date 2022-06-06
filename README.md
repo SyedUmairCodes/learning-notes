@@ -6,4 +6,4 @@ All of these notes are in markdown format and I use [Obsidian](https://obsidian.
 
 ## My current  knowledge graph
 
-![[graph.png]]
+![My graph](https://i.ibb.co/W0bNbqm/Screenshot-from-2022-06-04-08-51-52.png)
