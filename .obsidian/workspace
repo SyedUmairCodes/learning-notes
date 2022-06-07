@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business-analytics-nanodegree/01-what-is-data.md",
+            "file": "Book-notes/Show-your-work/02-dont-be-a-genius.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business-analytics-nanodegree/01-what-is-data.md",
+                "file": "Book-notes/Show-your-work/02-dont-be-a-genius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b48eea0e79317690",
   "lastOpenFiles": [
-    "Business-analytics-nanodegree/01-what-is-data.md",
-    "Business-analytics-nanodegree/Exploring-data.pdf",
-    "Book-notes/Keep-going/20-take-a-nap.md",
-    "Book-notes/Keep-going/19-tidying-up.md",
-    "Book-notes/Zero-to-one/02-progress.md",
-    "Book-notes/Zero-to-one/01-the-future.md",
-    "Book-notes/Everything-is-fucked/10-the-two-brains.md",
-    "Book-notes/Everything-is-fucked/09-emotional-problems.md",
-    "Book-notes/Everything-is-fucked/08-straight-values.md",
-    "Book-notes/Everything-is-fucked/07-the-classic-assumption.md"
+    "Book-notes/Show-your-work/02-dont-be-a-genius.md",
+    "Full-stack-open-2022/01-first-rule-of-web-dev.md",
+    "Full-stack-open-2022/17-props-in-react.md",
+    "Full-stack-open-2022/16-components-and-jsx.md",
+    "Full-stack-open-2022/15-intro-to-react.md",
+    "Full-stack-open-2022/14-fatigue.md",
+    "Full-stack-open-2022/13-full-stack-development.md",
+    "Full-stack-open-2022/12-javascript-libraries.md",
+    "Full-stack-open-2022/11-SPA.md",
+    "Full-stack-open-2022/10-AJAX.md"
   ]
 }
