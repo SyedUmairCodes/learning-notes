@@ -10,3 +10,5 @@ The median splits the data into two different sets such that 50% of the data is 
 
 ## Mode
 The mode is used to find the most frequent or average value in a data set. There can be more than one mode in a data set.
+
+**Tags:** #Business-analytics

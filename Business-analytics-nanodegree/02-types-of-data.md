@@ -13,3 +13,5 @@ Ordinal data is where you order data by ranks like good, better, and best. Nomin
 Quantitative data can also be further divided into two groups, Continuous data is data that can be split into smaller values it is used to measure time.
 
 Discrete data is used to measure countable values like number of children in a class.
+
+**Tags:** #Business-analytics

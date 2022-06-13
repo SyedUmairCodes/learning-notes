@@ -4,15 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b48eea0e79317690",
+        "id": "a41267fe4caadaa5",
         "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "3e974bb5c890d4bc",
+        "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Book-notes/Show-your-work/02-dont-be-a-genius.md",
+            "file": "chapter-3-every.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -69,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book-notes/Show-your-work/02-dont-be-a-genius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b48eea0e79317690",
+  "active": "a41267fe4caadaa5",
   "lastOpenFiles": [
-    "Book-notes/Show-your-work/02-dont-be-a-genius.md",
-    "Full-stack-open-2022/01-first-rule-of-web-dev.md",
-    "Full-stack-open-2022/17-props-in-react.md",
-    "Full-stack-open-2022/16-components-and-jsx.md",
-    "Full-stack-open-2022/15-intro-to-react.md",
-    "Full-stack-open-2022/14-fatigue.md",
-    "Full-stack-open-2022/13-full-stack-development.md",
-    "Full-stack-open-2022/12-javascript-libraries.md",
-    "Full-stack-open-2022/11-SPA.md",
-    "Full-stack-open-2022/10-AJAX.md"
+    "Book-notes/Everything-is-fucked/13-self-worth-is-an-illusion.md",
+    "chapter-3-every.md",
+    "Book-notes/Everything-is-fucked/12-moral-gaps.md",
+    "Book-notes/Everything-is-fucked/11-everyone-lies.md",
+    "Book-notes/Everything-is-fucked/10-the-two-brains.md",
+    "Business-analytics-nanodegree/Exploring-data.pdf",
+    "Business-analytics-nanodegree/02-types-of-data.md",
+    "Business-analytics-nanodegree/03-measures-of-center.md",
+    "Business-analytics-nanodegree/01-what-is-data.md",
+    "Colt-steele-JavaScript/01-for-of-loop.md"
   ]
 }
