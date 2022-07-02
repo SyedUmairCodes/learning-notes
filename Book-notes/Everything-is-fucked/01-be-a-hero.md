@@ -1,6 +1,6 @@
 # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # Be a hero
 - Being heroic is the ability to conjure hope where there is none. To strike a match to light up the void. 

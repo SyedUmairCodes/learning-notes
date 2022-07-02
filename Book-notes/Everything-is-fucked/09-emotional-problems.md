@@ -1,6 +1,6 @@
 # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # Emotional problems
 - Every problem of self-control is not a problem of information or discipline or reason but, rather, of emotion.

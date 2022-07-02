@@ -1,6 +1,6 @@
 # Self-Discipline
 - **Author:** Curtis Leone
-- **Genre:** Self-help
+- **Genre:** Self-help, Confidence, Emotional Intelligence
 
 # Difference between Self-Discipline and Willpower
 - Will power is necessary to get you started, you need self-discipline if you truly want to realize your true potential. Willpower simply catapults you to action and as such is likely to be powerful but temporary, which means that you need something that can keep you going until the very end.

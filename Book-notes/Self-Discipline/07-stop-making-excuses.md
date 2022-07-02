@@ -1,6 +1,6 @@
 # Self-Discipline
 - **Author:** Curtis Leone
-- **Genre:** Self-help
+- **Genre:** Self-help, Confidence, Emotional Intelligence
 
 # Stop making excuses
 - You need to remove the worst habit that people have from your life if you wanna be Self-Disciplined and that is the habit of making excuses.

@@ -1,6 +1,6 @@
 # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # The classic assumption
 - The Classic Assumption says that if a person is undisciplined, unruly, or malicious, it’s because he lacks the ability to subjugate his feelings, that he is weak-willed or just plain fucked up.

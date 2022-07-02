@@ -1,6 +1,6 @@
 # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # The two brains
 - Each person has two different types of brains in his head that reside in his consciousness. A Thinking Brain and a Feeling Brain.

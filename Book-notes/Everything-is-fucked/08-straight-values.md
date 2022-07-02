@@ -1,6 +1,6 @@
 # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # Get your values straight
 - Get your values straight with ourselves so that you can get our values straight with the world. 

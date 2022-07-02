@@ -1,6 +1,6 @@
 # Self-Discipline
 - **Author:** Curtis Leone
-- **Genre:** Self-help
+- **Genre:** Self-help, Confidence, Emotional Intelligence
 
 # What is Self Discipline
 - Self-discipline refers to the control you have over yourself i.e. the control you have over your emotions, feelings, behaviors, actions, and thoughts.It means avoiding unhealthy excesses of everything that can result to negative consequences.

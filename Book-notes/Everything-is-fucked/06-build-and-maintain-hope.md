@@ -1,6 +1,6 @@
   # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # Build and maintain hope
 - To build and maintain hope, we need three things: a sense of control, a belief in the value of something, and a community.

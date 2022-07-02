@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7e6983c43f9c6f",
+        "id": "24ff5f7ac9a2ee1c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Book-notes/Self-Discipline/08-take-action.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74c195f2149f1e8b",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book-notes/Self-Discipline/08-take-action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d7e6983c43f9c6f",
+  "active": "24ff5f7ac9a2ee1c",
   "lastOpenFiles": [
-    "Book-notes/Self-Discipline/08-take-action.md",
-    "Book-notes/Self-Discipline/05-why-you-dont-have-sd.md",
-    "Book-notes/Self-Discipline/03-difference-between-sd-and-wp.md",
-    "Book-notes/Self-Discipline/02-what-is-willpower.md",
-    "Book-notes/Sapiens/01-ancient-history.md",
-    "Book-notes/Self-Discipline/01-what-is-self-discipline.md",
-    "README.md",
-    "chapter-3-every.md",
+    "Panaverse/Semester-1A/Introduction/07-the-creator-economy.md",
+    "Panaverse/Semester-1A/Introduction/06-how-the-metaverse-will-change.md",
+    "Panaverse/Semester-1A/Introduction/05-challenges-of-the-metaverse.md",
+    "Panaverse/Semester-1A/Introduction/03-jp-morgan-report.md",
+    "Panaverse/Semester-1A/Introduction/04-metaverse-and-money.md",
+    "Panaverse/Semester-1A/Introduction/02-standards-and-terminology.md",
+    "Panaverse/Semester-1A/Introduction/01-goldman-sachs-prediction.md",
+    "Book-notes/Everything-is-fucked/14-emotional-gravity.md",
     "Book-notes/Everything-is-fucked/13-self-worth-is-an-illusion.md",
-    "Book-notes/Everything-is-fucked/12-moral-gaps.md"
+    "14-emotional-gravity.md"
   ]
 }

@@ -1,6 +1,6 @@
   # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # The opposite of happiness
 - The opposite of happiness is not anger or sadness. If you’re angry or sad, that means you still give a fuck about something. That means something still matters. That means you still have hope

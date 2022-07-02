@@ -1,6 +1,6 @@
 # Self-Discipline
 - **Author:** Curtis Leone
-- **Genre:** Self-help
+- **Genre:** Self-help, Confidence, Emotional Intelligence
 
 # Why you don't have Self-Discipline
 - Self-discipline is not something you are born with; it is something you work on and develop. The disciplined have worked hard to build this strength and those who do not have it need to put in effort to acquire it.

@@ -1,6 +1,6 @@
 # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # Moral gaps
 If someone hurts you, you think that this person is a piece of trash and you start hating him and want to hurt them even more. This is called a moral gap, the sense that one of us is inherently righteous, and the other is an inferior piece of shit.

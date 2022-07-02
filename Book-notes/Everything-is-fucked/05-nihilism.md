@@ -1,6 +1,6 @@
   # Everything is fucked
 - **Author:** Mark Mason
-- **Genre:** Self-help
+- **Genre:** Self-help, Philosophy
 
 # Nihilism
 - Nihilism is the believe that nothing in this world matters and there is no point in living.

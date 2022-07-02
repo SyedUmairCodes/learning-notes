@@ -1,6 +1,6 @@
 # Self-Discipline
 - **Author:** Curtis Leone
-- **Genre:** Self-help
+- **Genre:** Self-help, Confidence, Emotional Intelligence
 
 # Why do you need Self-Discipline
 - When you lack self-discipline, you lack self-control. This means that when working on something, you easily get distracted and give in to your desires, urges, and feelings. Self-discipline seeks to reverse that; it helps you to stick to whatever it is you have planned to do no matter the level of discomfort or difficulties that you face along the way.

@@ -1,6 +1,6 @@
 # Self-Discipline
 - **Author:** Curtis Leone
-- **Genre:** Self-help
+- **Genre:** Self-help, Confidence, Emotional Intelligence
 
 # What is Willpower
 - You can think of your willpower as your ability to set a course of action then say ‘engage’ then be certain that you will get started.
