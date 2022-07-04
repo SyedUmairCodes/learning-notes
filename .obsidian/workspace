@@ -7,8 +7,12 @@
         "id": "24ff5f7ac9a2ee1c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "24ff5f7ac9a2ee1c",
   "lastOpenFiles": [
-    "Panaverse/Semester-1A/Introduction/07-the-creator-economy.md",
-    "Panaverse/Semester-1A/Introduction/06-how-the-metaverse-will-change.md",
-    "Panaverse/Semester-1A/Introduction/05-challenges-of-the-metaverse.md",
-    "Panaverse/Semester-1A/Introduction/03-jp-morgan-report.md",
-    "Panaverse/Semester-1A/Introduction/04-metaverse-and-money.md",
-    "Panaverse/Semester-1A/Introduction/02-standards-and-terminology.md",
-    "Panaverse/Semester-1A/Introduction/01-goldman-sachs-prediction.md",
-    "Book-notes/Everything-is-fucked/14-emotional-gravity.md",
-    "Book-notes/Everything-is-fucked/13-self-worth-is-an-illusion.md",
-    "14-emotional-gravity.md"
+    "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
+    "Book-notes/Refactoring-UI/18-relative-sizing.md",
+    "Book-notes/Refactoring-UI/17-grids-are-overrated.md",
+    "Book-notes/Refactoring-UI/16-dont-fill-the-whole-screen.md",
+    "Book-notes/Refactoring-UI/14-white-space.md",
+    "Book-notes/Refactoring-UI/15-spacing-and-size-system.md",
+    "Book-notes/Refactoring-UI/13-semantics-are-secondary.md",
+    "Book-notes/Refactoring-UI/12-contrast-and-weight.md",
+    "Book-notes/Refactoring-UI/11-separate-visual-and-document-hierarchy.md",
+    "README.md"
   ]
 }
