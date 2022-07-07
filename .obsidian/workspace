@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24ff5f7ac9a2ee1c",
+        "id": "f07fffb17a7afd38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
+            "file": "04-global-vs-window.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74c195f2149f1e8b",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
+                "file": "04-global-vs-window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +80,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "93a86da17b7a6dc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "24ff5f7ac9a2ee1c",
+  "active": "f07fffb17a7afd38",
   "lastOpenFiles": [
+    "04-global-vs-window.md",
+    "Zero-to-mastery-Nodejs/03-node-vs-javascript.md",
+    "Zero-to-mastery-Nodejs/02-Javascript-runtime.md",
+    "Zero-to-mastery-Nodejs/01-Node-is-born.md",
     "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
     "Book-notes/Refactoring-UI/18-relative-sizing.md",
     "Book-notes/Refactoring-UI/17-grids-are-overrated.md",
     "Book-notes/Refactoring-UI/16-dont-fill-the-whole-screen.md",
     "Book-notes/Refactoring-UI/14-white-space.md",
-    "Book-notes/Refactoring-UI/15-spacing-and-size-system.md",
-    "Book-notes/Refactoring-UI/13-semantics-are-secondary.md",
-    "Book-notes/Refactoring-UI/12-contrast-and-weight.md",
-    "Book-notes/Refactoring-UI/11-separate-visual-and-document-hierarchy.md",
-    "README.md"
+    "Book-notes/Refactoring-UI/15-spacing-and-size-system.md"
   ]
 }
