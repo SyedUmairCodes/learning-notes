@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f07fffb17a7afd38",
+        "id": "19552645ada70362",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "04-global-vs-window.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74c195f2149f1e8b",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-global-vs-window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f07fffb17a7afd38",
+  "active": "19552645ada70362",
   "lastOpenFiles": [
-    "04-global-vs-window.md",
-    "Zero-to-mastery-Nodejs/03-node-vs-javascript.md",
-    "Zero-to-mastery-Nodejs/02-Javascript-runtime.md",
-    "Zero-to-mastery-Nodejs/01-Node-is-born.md",
+    "21-use-good-fonts.md",
+    "20-establish-a-typescale.md",
     "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
-    "Book-notes/Refactoring-UI/18-relative-sizing.md",
-    "Book-notes/Refactoring-UI/17-grids-are-overrated.md",
-    "Book-notes/Refactoring-UI/16-dont-fill-the-whole-screen.md",
-    "Book-notes/Refactoring-UI/14-white-space.md",
-    "Book-notes/Refactoring-UI/15-spacing-and-size-system.md"
+    "Full-stack-open-2022/15-intro-to-react.md",
+    "Full-stack-open-2022/16-components-and-jsx.md",
+    "Full-stack-open-2022/17-props-in-react.md",
+    "Zero-to-mastery-Nodejs/05-how-is-node-used.md",
+    "Zero-to-mastery-Nodejs/04-global-vs-window.md",
+    "Zero-to-mastery-Nodejs/03-node-vs-javascript.md",
+    "Zero-to-mastery-Nodejs/02-Javascript-runtime.md"
   ]
 }

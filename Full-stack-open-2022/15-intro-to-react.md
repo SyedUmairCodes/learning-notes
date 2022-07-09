@@ -1,5 +1,5 @@
 # Introduction to react
-React is the most popular JavaScript library for frontend development because it offers great features, a component based approach and great community.
+React is the most popular JavaScript library for front-end development because it offers great features, a component based approach and great community.
 
 The easiest way to start using react is a tool created by the react developers called *create-react-app*. To use this tool you should have Node.js and npm installed on your computer.
 
