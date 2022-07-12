@@ -93,15 +93,15 @@
   },
   "active": "19552645ada70362",
   "lastOpenFiles": [
+    "27-hex-and-hsl.md",
+    "26-letter-spacing.md",
+    "25-align-text.md",
+    "24-links-and-colors.md",
+    "23-line-height.md",
+    "22-line-length.md",
+    "Book-notes/Refactoring-UI/21-use-good-fonts.md",
+    "Next.js-overview.md",
     "21-use-good-fonts.md",
-    "20-establish-a-typescale.md",
-    "Book-notes/Refactoring-UI/19-avoid-ambiguous-spacing.md",
-    "Full-stack-open-2022/15-intro-to-react.md",
-    "Full-stack-open-2022/16-components-and-jsx.md",
-    "Full-stack-open-2022/17-props-in-react.md",
-    "Zero-to-mastery-Nodejs/05-how-is-node-used.md",
-    "Zero-to-mastery-Nodejs/04-global-vs-window.md",
-    "Zero-to-mastery-Nodejs/03-node-vs-javascript.md",
-    "Zero-to-mastery-Nodejs/02-Javascript-runtime.md"
+    "20-establish-a-typescale.md"
   ]
 }
