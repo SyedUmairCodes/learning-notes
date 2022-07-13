@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "19552645ada70362",
+        "id": "8fec4612aea8109b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "mb.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Panaverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19552645ada70362",
+  "active": "8fec4612aea8109b",
   "lastOpenFiles": [
-    "27-hex-and-hsl.md",
-    "26-letter-spacing.md",
-    "25-align-text.md",
-    "24-links-and-colors.md",
-    "23-line-height.md",
-    "22-line-length.md",
-    "Book-notes/Refactoring-UI/21-use-good-fonts.md",
+    "calm-down.md",
+    "05-three-important-lessons.md",
+    "04-over-react-and-under-react.md",
+    "03-special-person.md",
+    "mb.md",
     "Next.js-overview.md",
-    "21-use-good-fonts.md",
-    "20-establish-a-typescale.md"
+    "02-how-do-you-react.md",
+    "01-shit-happen.md",
+    "17-block-chain-in-business.md",
+    "16-block-chain architecture.md"
   ]
 }
