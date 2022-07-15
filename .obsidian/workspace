@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8fec4612aea8109b",
+        "id": "b38b9744d052eb59",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "mb.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "0c1ae703e77ddc9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "35-consensus-mechanism.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74c195f2149f1e8b",
@@ -69,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mb.md",
+                "file": "35-consensus-mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8fec4612aea8109b",
+  "active": "0c1ae703e77ddc9e",
   "lastOpenFiles": [
-    "calm-down.md",
-    "05-three-important-lessons.md",
-    "04-over-react-and-under-react.md",
-    "03-special-person.md",
     "mb.md",
-    "Next.js-overview.md",
-    "02-how-do-you-react.md",
-    "01-shit-happen.md",
-    "17-block-chain-in-business.md",
-    "16-block-chain architecture.md"
+    "35-consensus-mechanism.md",
+    "34-consensus.md",
+    "33-tokenless-blockchains.md",
+    "32-tokenized-blockchains.md",
+    "31-private-and-proprietary-blockchains.md",
+    "30-permissioned-ledger.md",
+    "29-side-chains.md",
+    "28-semi-private-blockchains.md",
+    "27-private-blockchains.md"
   ]
 }
