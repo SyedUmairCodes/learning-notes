@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mb.md",
+            "file": "FINISH THESE FIRST/sb.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mb.md",
+                "file": "FINISH THESE FIRST/sb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd7ff863038226ea",
+  "active": "7e7d099471d8234e",
   "lastOpenFiles": [
+    "FINISH THESE FIRST/rui.md",
+    "Book-notes/Refactoring-UI/27-hex-and-hsl.md",
+    "FINISH THESE FIRST/sb.md",
+    "FINISH THESE FIRST/calm-down.md",
+    "FINISH THESE FIRST/mb.md",
     "43-distributed-vs-decentralized-system.md",
     "42-centralized-systems.md",
-    "mb.md",
     "41-decentralization-using-blockchain.md",
     "40-decentralization.md",
-    "Book-notes/Mastering  Block-chain/01-invention-of-bitcoin.md",
-    "Next.js-overview.md",
-    "README.md",
-    "calm-down.md",
-    "Book-notes/Sapiens/01-ancient-history.md"
+    "Book-notes/Mastering  Block-chain/01-invention-of-bitcoin.md"
   ]
 }
